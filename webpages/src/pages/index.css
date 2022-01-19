@@ -1,0 +1,17 @@
+
+*{
+    width: 400px;
+    background: rgb(172, 13, 13);
+    border: 1px solid #3e7cd8;
+    box-shadow: 0 2px 4px rgb(0 0 0 / 10%), 0 8px 16px rgb(0 0 0 / 10%);
+    border-radius: 8px;
+    padding: 1rem;
+    align-items: center;
+    text-align: center;
+}
+.footer {
+    padding: 20px;
+    text-align: center;
+    background: rgb(22, 86, 145);
+    margin-top: 20px;
+    }

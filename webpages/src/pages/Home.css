@@ -1,0 +1,13 @@
+
+*{
+  background-color: rgb(243, 247, 247);
+}
+.container {
+    position: absolute;
+    right: 0;
+    margin: 20px;
+    max-width: 300px;
+    padding: 16px;
+    background-color: white;
+  }
+  
